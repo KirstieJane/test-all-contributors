@@ -9,62 +9,62 @@
   "skipCi": true,
   "contributors": [
     {
-      "login": "alexmorley",
-      "name": "Alexander Morley",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/13655521?v=4",
-      "profile": "http://alexmorley.me",
+      "login": "crangelsmith",
+      "name": "Camila Rangel Smith",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11162074?v=4",
+      "profile": "https://github.com/crangelsmith",
       "contributions": [
-        "question",
-        "review",
+        "doc"
+      ]
+    },
+    {
+      "login": "RostiReadioff",
+      "name": "Rosti Readioff",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45424690?v=4",
+      "profile": "https://github.com/RostiReadioff",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jemrobinson",
+      "name": "James Robinson",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3502751?v=4",
+      "profile": "https://github.com/jemrobinson",
+      "contributions": [
         "ideas",
-        "test"
+        "code"
       ]
     },
     {
-      "login": "jamesmyatt",
-      "name": "James Myatt",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1047337?v=4",
-      "profile": "http://www.jamesmyatt.co.uk/",
+      "login": "SusannaSansone",
+      "name": "Susanna-Assunta Sansone",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/525719?v=4",
+      "profile": "https://sansonegroup.eng.ox.ac.uk/",
       "contributions": [
         "doc"
       ]
     },
     {
-      "login": "OliJimbo",
-      "name": "OliJimbo",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/16899600?v=4",
-      "profile": "https://github.com/OliJimbo",
+      "login": "seyhunsaral",
+      "name": "Ali Seyhun Saral",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11707417?v=4",
+      "profile": "http://www.saral.it",
       "contributions": [
         "doc"
       ]
     },
     {
-      "login": "martintoreilly",
-      "name": "Martin O'Reilly",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/21147592?v=4",
-      "profile": "https://github.com/martintoreilly",
+      "login": "malvikasharan",
+      "name": "Malvika Sharan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5370471?v=4",
+      "profile": "https://github.com/malvikasharan",
       "contributions": [
-        "question",
-        "tool",
-        "ideas"
-      ]
-    },
-    {
-      "login": "jspickering",
-      "name": "Jade Pickering",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/28339195?v=4",
-      "profile": "https://github.com/jspickering",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "KirstieJane",
-      "name": "Kirstie Whitaker",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
-      "profile": "https://whitakerlab.github.io",
-      "contributions": [
-        "bug"
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "projectmanagement",
+        "review"
       ]
     }
   ],
