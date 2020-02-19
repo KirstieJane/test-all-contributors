@@ -57,65 +57,6 @@
       "contributions": [
         "doc"
       ]
-    },
-    {
-      "login": "crangelsmith",
-      "name": "Camila Rangel Smith",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/11162074?v=4",
-      "profile": "https://github.com/crangelsmith",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "RostiReadioff",
-      "name": "Rosti Readioff",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/45424690?v=4",
-      "profile": "https://github.com/RostiReadioff",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "jemrobinson",
-      "name": "James Robinson",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/3502751?v=4",
-      "profile": "https://github.com/jemrobinson",
-      "contributions": [
-        "ideas",
-        "code"
-      ]
-    },
-    {
-      "login": "SusannaSansone",
-      "name": "Susanna-Assunta Sansone",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/525719?v=4",
-      "profile": "https://sansonegroup.eng.ox.ac.uk/",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "seyhunsaral",
-      "name": "Ali Seyhun Saral",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/11707417?v=4",
-      "profile": "http://www.saral.it",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "malvikasharan",
-      "name": "Malvika Sharan",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/5370471?v=4",
-      "profile": "https://github.com/malvikasharan",
-      "contributions": [
-        "doc",
-        "eventOrganizing",
-        "ideas",
-        "projectmanagement",
-        "review"
-      ]
     }
   ],
   "projectName": "test-all-contributors",
