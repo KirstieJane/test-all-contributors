@@ -9,17 +9,95 @@
   "skipCi": true,
   "contributors": [
     {
-      "login": "rainsworth",
-      "name": "Rachael Ainsworth",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/10600877?v=4",
-      "profile": "https://rainsworth.github.io",
+      "login": "illushka",
+      "name": "Chanuki Illushka Seresinhe",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8143964?v=4",
+      "profile": "https://github.com/illushka",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "nadiasoliman",
+      "name": "Nadia Soliman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/41086364?v=4",
+      "profile": "https://github.com/nadiasoliman",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ajstewartlang",
+      "name": "Andrew Stewart",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26226804?v=4",
+      "profile": "https://scholar.google.co.uk/citations?user=o0cD2JgAAAAJ&hl=en",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "BioStew",
+      "name": "Sarah Stewart",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17767752?v=4",
+      "profile": "https://github.com/Biostew",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ots22",
+      "name": "Oliver Strickson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5434836?v=4",
+      "profile": "https://github.com/ots22",
+      "contributions": [
+        "question",
+        "doc"
+      ]
+    },
+    {
+      "login": "NatalieThurlby",
+      "name": "Natalie Thurlby",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17617308?v=4",
+      "profile": "https://github.com/NatalieThurlby",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "GjjvdBurg",
+      "name": "Gertjan van den Burg",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3286696?v=4",
+      "profile": "http://gertjan.dev",
       "contributions": [
         "doc",
-        "eventOrganizing",
         "ideas",
+        "question"
+      ]
+    },
+    {
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://whitakerlab.github.io",
+      "contributions": [
         "question",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "fundingFinding",
+        "ideas",
         "review",
         "talk"
+      ]
+    },
+    {
+      "login": "tonyyzy",
+      "name": "Tony Yang",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/38984697?v=4",
+      "profile": "https://github.com/tonyyzy",
+      "contributions": [
+        "doc"
       ]
     },
     {
@@ -30,15 +108,6 @@
       "contributions": [
         "doc",
         "review"
-      ]
-    },
-    {
-      "login": "KirstieJane",
-      "name": "Kirstie Whitaker",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
-      "profile": "https://whitakerlab.github.io",
-      "contributions": [
-        "bug"
       ]
     }
   ],
