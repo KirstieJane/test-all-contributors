@@ -5,11 +5,11 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://alexmorley.me"><img src="https://avatars2.githubusercontent.com/u/13655521?v=4" width="100px;" alt=""/><br /><sub><b>Alexander Morley</b></sub></a></td>
-    <td align="center"><a href="http://www.jamesmyatt.co.uk/"><img src="https://avatars1.githubusercontent.com/u/1047337?v=4" width="100px;" alt=""/><br /><sub><b>James Myatt</b></sub></a></td>
-    <td align="center"><a href="https://github.com/OliJimbo"><img src="https://avatars2.githubusercontent.com/u/16899600?v=4" width="100px;" alt=""/><br /><sub><b>OliJimbo</b></sub></a></td>
-    <td align="center"><a href="https://github.com/martintoreilly"><img src="https://avatars3.githubusercontent.com/u/21147592?v=4" width="100px;" alt=""/><br /><sub><b>Martin O'Reilly</b></sub></a></td>
-    <td align="center"><a href="https://github.com/jspickering"><img src="https://avatars3.githubusercontent.com/u/28339195?v=4" width="100px;" alt=""/><br /><sub><b>Jade Pickering</b></sub></a></td>
+    <td align="center"><a href="https://github.com/crangelsmith"><img src="https://avatars2.githubusercontent.com/u/11162074?v=4" width="100px;" alt=""/><br /><sub><b>Camila Rangel Smith</b></sub></a></td>
+    <td align="center"><a href="https://github.com/RostiReadioff"><img src="https://avatars1.githubusercontent.com/u/45424690?v=4" width="100px;" alt=""/><br /><sub><b>Rosti Readioff</b></sub></a></td>
+    <td align="center"><a href="https://github.com/jemrobinson"><img src="https://avatars2.githubusercontent.com/u/3502751?v=4" width="100px;" alt=""/><br /><sub><b>James Robinson</b></sub></a></td>
+    <td align="center"><a href="https://sansonegroup.eng.ox.ac.uk/"><img src="https://avatars3.githubusercontent.com/u/525719?v=4" width="100px;" alt=""/><br /><sub><b>Susanna-Assunta Sansone</b></sub></a></td>
+    <td align="center"><a href="http://www.saral.it"><img src="https://avatars1.githubusercontent.com/u/11707417?v=4" width="100px;" alt=""/><br /><sub><b>Ali Seyhun Saral</b></sub></a></td>
     <td align="center"><a href="https://whitakerlab.github.io"><img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;" alt=""/><br /><sub><b>Kirstie Whitaker</b></sub></a></td>
   </tr>
 </table>
