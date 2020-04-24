@@ -10,6 +10,7 @@
     <td align="center"><img src="https://avatars2.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika is Cool</b></sub><br /><a href="#question-malvikasharan" title="Answering Questions">💬</a> <a href="https://github.com/KirstieJane/test-all-contributors/pulls?q=is%3Apr+reviewed-by%3Amalvikasharan" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><img src="https://avatars0.githubusercontent.com/u/44771837?v=4" width="100px;" alt=""/><br /><sub><b>Sarah Likes Cross Stitch</b></sub><br /><a href="https://github.com/KirstieJane/test-all-contributors/commits?author=sgibson91" title="Code">💻</a> <a href="#talk-sgibson91" title="Talks">📢</a></td>
     <td align="center"><a href="https://github.com/GeorgiaHCA"><img src="https://avatars1.githubusercontent.com/u/46889966?v=4" width="100px;" alt=""/><br /><sub><b>Georgia</b></sub></a><br /><a href="https://github.com/KirstieJane/test-all-contributors/commits?author=georgiahca" title="Tests">⚠️</a> <a href="https://github.com/KirstieJane/test-all-contributors/pulls?q=is%3Apr+reviewed-by%3Ageorgiahca" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://whitakerlab.github.io"><img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;" alt=""/><br /><sub><b>Kirstie Whitaker</b></sub></a><br /><a href="#ideas-KirstieJane" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
