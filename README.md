@@ -90,6 +90,7 @@
     <td align="center"><a href="https://whitakerlab.github.io"><img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;" alt=""/><br /><sub><b>Kirstie Whitaker</b></sub></a></td>
     <td align="center"><a href="https://github.com/tonyyzy"><img src="https://avatars3.githubusercontent.com/u/38984697?v=4" width="100px;" alt=""/><br /><sub><b>Tony Yang</b></sub></a></td>
     <td align="center"><a href="http://yo-yehudi.com"><img src="https://avatars0.githubusercontent.com/u/9271438?v=4" width="100px;" alt=""/><br /><sub><b>Yo Yehudi</b></sub></a></td>
+    <td align="center"><a href="https://github.com/GeorgiaHCA"><img src="https://avatars1.githubusercontent.com/u/46889966?v=4" width="100px;" alt=""/><br /><sub><b>Georgia</b></sub></a></td>
   </tr>
 </table>
 
